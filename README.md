@@ -1,2 +1,3 @@
-# Sentiment-Analysis---Kickstarter-Project
-Predicting Kickstarter Campaign Success Through Sentiment Analysis 
+# Sentiment-Analysis---ML Kickstarter-Project
+'Predicting Kickstarter Campaign Success Through Sentiment Analysis Based on Reward-Based Crowdfunding Project Blurbs’.
+This project involved writing the code and testing the model on Python for my dissertation using natural language processing. The study compromised 80 excel files being cleaned and pre-processed which then enabled me to create a model on Python to predict Kickstarter campaign success through sentiment analysis (Machine learning) based on crowdfunding project blurbs’. In addition, regression analysis was implemented to determine Which machine learning model provides the best prediction and accuracy percentage for this type of study? As a result of this study the most successful and failed blurbs (descriptions) associated with each category on the platform was produced to provide a guideline for future fund seekers to adhere to, which was unprecedented in this field of research. 
